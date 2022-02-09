@@ -237,11 +237,11 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #38a2bd;
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #2d6d97;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11383,13 +11383,14 @@ p.lead {
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
+}
 
-.project-icon{
+.project-icon {
   color: #04414d;
   font-size: 4rem;
   display: flex;
   align-items:center;
-  height: 10rem;
+  height: 4rem;
   width: 10rem;
 }
 .social-icons .social-icon {
